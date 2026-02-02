@@ -1,2 +1,23 @@
 # sakaiA.github.io
-Sakai Alexander Personal Website
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+p {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
+</style>
+</head>
+<body>
+
+<h1>Sakai personal website</h1>
+
+</body>
+</html>
